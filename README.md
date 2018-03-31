@@ -2,11 +2,21 @@
 Two players Dice game
 
 # Getting Started
-This is a Dice game. This game will be played between two players. Python tkinter module has used for the Graphical User Interface and also whole game is constructed by python. Python version 3.5 has been used to make this game. <br/>
+<ul>
+<li>
+This is a Dice game. </li> <br/> 
+<li>
+This game will be played between two players. Python tkinter module has used for the Graphical User Interface and also whole game is constructed by python. Python version 3.5 has been used to make this game. <br/>
 This game can be run on both Windows and Linux operating system by using pycharm, anaconda 3 or all other python editor with the python version 3.x <br/>
+</li>
+<li>  
 This game will start by completing the registration process for two players and also name will be unique for two players to complete the registration process. <br/>
 There has a toss round where player can choice Head or Tail randomly. The player who is the winner of Head will always turn the dice first. Next the second player will turn the dice and so on. This process will be continued until any player get reach the Winning Score. <br/> 
+</li>
+<li> 
 Winning score is a terminated score by you can decide who the winner of this game is. If the total summation of dice number (1, 2, 3, 4, 5 and 6) for any player is strictly equal to that Winning Score then that player will be considered as a winner of this game. <br/> From this you may start another game between same players but that time the Winning Score will be increased by 5. So, each time if you start another new game between the same players the Winning Score will be updated by 5 and you will find a Head to Head table.
+</li>
+</ul>
 
 # Prerequisites
 <b> <u> For Windows </u> </b> <br/>
