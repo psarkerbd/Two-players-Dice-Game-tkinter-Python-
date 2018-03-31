@@ -21,13 +21,16 @@ Winning score is a terminated score by you can decide who the winner of this gam
 
 # Prerequisites
 <b> <u> For Windows </u> </b> <br/>
-i.	You need to install python version 3.x. you may download Python version from their official website: ./https://www.python.org/downloads/ <br/> 
+<ul>
+<li>You need to install python version 3.x. you may download Python version from their official website: ./https://www.python.org/downloads/ <br/> 
 Or you may download a complete package by downloading anaconda: ../https://www.anaconda.com/download/ <br/>
-ii.	One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice). Download pycharm: ./https://www.jetbrains.com/pycharm/download/#section=windows <br/>
-
+</li>
+<li>One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice). Download pycharm: ./https://www.jetbrains.com/pycharm/download/#section=windows <br/>
+</li>
 <b> <u> For Linux </u> </b> <br/>
-To install both python and any text editor like pycharm you should do some execution of command line on the terminal. <br/>
-
+<li>To install both python and any text editor like pycharm you should do some execution of command line on the terminal. <br/>
+</li>
+</ul>
 <strong> Finally, run the game and play it. </strong>
 
 <br/>
