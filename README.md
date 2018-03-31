@@ -4,7 +4,7 @@ Two players Dice game
 # Getting Started
 <ul>
 <li>
-This is a Dice game. </li> <br/> 
+This is a Dice game. </li>
 <li>
 This game will be played between two players. Python tkinter module has used for the Graphical User Interface and also whole game is constructed by python. Python version 3.5 has been used to make this game. <br/>
 This game can be run on both Windows and Linux operating system by using pycharm, anaconda 3 or all other python editor with the python version 3.x <br/>
@@ -22,7 +22,7 @@ Winning score is a terminated score by you can decide who the winner of this gam
 <b> <u> For Windows </u> </b> <br/>
 i.	You need to install python version 3.x. you may download Python version from their official website: ./https://www.python.org/downloads/ <br/> 
 Or you may download a complete package by downloading anaconda: ../https://www.anaconda.com/download/
-ii.	One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice). Download pycharm: ../https://www.jetbrains.com/pycharm/download/#section=windows
+ii.	One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice). Download pycharm: ./https://www.jetbrains.com/pycharm/download/#section=windows
 
 <b> <u> For Linux </u> </b> <br/>
 To install both python and any text editor like pycharm you should do some execution of command line on the terminal. <br/>
