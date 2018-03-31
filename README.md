@@ -27,7 +27,8 @@ Or you may download a complete package by downloading anaconda: ../https://www.a
 </li>
 <li>One editor can be a good one. (i.e., pycharm, anaconda3 etc or any other that you can choice). Download pycharm: ./https://www.jetbrains.com/pycharm/download/#section=windows <br/>
 </li>
-<b> <u> For Linux </u> </b> <br/>
+  <br/> </ul>
+<b> <u> For Linux </u> </b> <br/>  <ul>
 <li>To install both python and any text editor like pycharm you should do some execution of command line on the terminal. <br/>
 </li>
 </ul>
