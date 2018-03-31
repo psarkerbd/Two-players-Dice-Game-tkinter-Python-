@@ -9,6 +9,7 @@ This is a Dice game. </li>
 This game will be played between two players. Python tkinter module has used for the Graphical User Interface and also whole game is constructed by python. Python version 3.5 has been used to make this game. <br/>
 This game can be run on both Windows and Linux operating system by using pycharm, anaconda 3 or all other python editor with the python version 3.x <br/>
 </li>
+<li> Used ImageTk, Image modules for the inserting a photo on the window. </li>
 <li>  
 This game will start by completing the registration process for two players and also name will be unique for two players to complete the registration process. <br/>
 There has a toss round where player can choice Head or Tail randomly. The player who is the winner of Head will always turn the dice first. Next the second player will turn the dice and so on. This process will be continued until any player get reach the Winning Score. <br/> 
